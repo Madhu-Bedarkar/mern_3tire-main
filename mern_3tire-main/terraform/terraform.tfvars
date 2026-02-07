@@ -2,7 +2,7 @@
 # AWS Configuration
 # ========================================
 aws_region   = "ap-south-1"
-project_name = "mern-3tier"
+project_name = "Terraform_Name_01"
 environment  = "production"
 
 # ========================================
